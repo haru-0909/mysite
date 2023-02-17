@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6C6B6B;
+}
+a {
+  text-decoration: none;
+}
+
+header {
+  color: #EC715F;
+}
