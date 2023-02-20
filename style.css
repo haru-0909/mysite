@@ -9,5 +9,16 @@ a {
 }
 
 header {
-  color: #EC715F;
+  background: #EC715F;
+}
+
+nav {
+
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  color: #fff;
+  margin: 0 20px;
 }
