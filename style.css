@@ -10,14 +10,18 @@ a {
 
 header {
   background: #EC715F;
+  position: relative;
+}
+
+header .heading {
+  font-size: 32px;
 }
 
 nav {
 
 }
 
-.nav-list-item {
-  list-style: none;
+.nav-list li {
   display: inline-block;
   color: #fff;
   margin: 0 20px;
