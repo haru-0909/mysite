@@ -52,3 +52,17 @@ main {
     padding-left: 2%;
     padding-right: 2%;
   }
+  
+  .blog-text {
+    width: 49%;
+    padding-top: 5px;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .sidebar-contents {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
